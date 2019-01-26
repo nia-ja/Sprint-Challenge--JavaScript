@@ -53,7 +53,7 @@ Using the `new` keyword constructs a new object, and `this` points to it.
 
 5. Why do we need super() in an extended class?
 
-The super keyword is used to access and call functions on an object's parent.
+The super keyword is used to access and call functions on an object's parent. It simly is calling the parent constructor (like ".call", when we're using prototypes).
 
 ## Project Set up
 
